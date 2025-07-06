@@ -11,29 +11,29 @@ This project is built on the belief that if we can recognize the early signs of 
 ### 📊 Features Used
 
 The model draws on a comprehensive dataset containing over 35 features that include:
-• Demographic Information
+##### Demographic Information
 • Marital Status
 • Nationality
 • Age at Enrollment
 • Gender
-• Family Background
+##### Family Background
 • Father’s and Mother’s Education Level
 • Father’s and Mother’s Occupation
-• Academic Background
+##### Academic Background
 • Admission Grade
 • Application Mode & Order
 • Daytime or Evening Attendance
 • Previous Qualification & Grade
-• Socioeconomic Status
+##### Socioeconomic Status
 • Displaced
 • Debtor
 • Tuition Fees Status
 • Scholarship Holder
 • International Student
-• Academic Performance
+##### Academic Performance
 • Curricular Units Enrolled, Approved, and Grades (for 1st & 2nd semesters)
 • Units Without Evaluation
-• Macroeconomic Context
+##### Macroeconomic Context
 • Unemployment Rate
 • Inflation Rate
 • Gross Domestic Product (GDP)
