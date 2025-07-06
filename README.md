@@ -11,29 +11,41 @@ This project is built on the belief that if we can recognize the early signs of 
 ### 📊 Features Used
 
 The model draws on a comprehensive dataset containing over 35 features that include:
+
 ##### Demographic Information
-• Marital Status
-• Nationality
-• Age at Enrollment
-• Gender
+
+    • Marital Status
+    • Nationality
+    • Age at Enrollment
+    • Gender
+
 ##### Family Background
-• Father’s and Mother’s Education Level
-• Father’s and Mother’s Occupation
+
+    • Father’s and Mother’s Education Level
+    • Father’s and Mother’s Occupation
+
 ##### Academic Background
-• Admission Grade
-• Application Mode & Order
-• Daytime or Evening Attendance
-• Previous Qualification & Grade
+
+    • Admission Grade
+    • Application Mode & Order
+    • Daytime or Evening Attendance
+    • Previous Qualification & Grade
+
 ##### Socioeconomic Status
-• Displaced
-• Debtor
-• Tuition Fees Status
-• Scholarship Holder
-• International Student
+
+    • Displaced
+    • Debtor
+    • Tuition Fees Status
+    • Scholarship Holder
+    • International Student
+
 ##### Academic Performance
+
 • Curricular Units Enrolled, Approved, and Grades (for 1st & 2nd semesters)
 • Units Without Evaluation
+
 ##### Macroeconomic Context
+
 • Unemployment Rate
 • Inflation Rate
 • Gross Domestic Product (GDP)
@@ -65,6 +77,7 @@ The model is trained to predict the column Target (Dropout) — a binary classif
         •	Make predictions using your own design inputs
 
 ### 📁 Dataset
+
     •	Name: Predict Students Dropout and Academic Success
     •	Source: UCI Machine Learning Repository
     •	Link: https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
